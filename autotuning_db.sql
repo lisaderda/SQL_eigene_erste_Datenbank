@@ -55,7 +55,7 @@ CREATE TABLE `hersteller` (
 INSERT INTO `hersteller` (`hersteller_id`, `name`, `herkunftsland`) VALUES
 (1, 'Audi', 'Deutschland'),
 (2, 'VW', 'Deutschland'),
-(3, 'BWM', 'Deutschland'),
+(3, 'BMW', 'Deutschland'),
 (4, 'Mercedes', 'Deutschland'),
 (5, 'Skoda', 'Tschechien');
 
