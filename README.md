@@ -15,10 +15,10 @@ verbaute Teile und Lackierungen.
 ### ERD (Entity-Relationship-Diagramm)
 ![ERD](ERD_autotuningdb.png)
 
-### Relationales Modell (logisch)
+### Relationales Datenbankmodell
 ![Relationales Modell logisch](Relationales_Datenbankmodell_autotuningdb.png)
 
-### Relationales Modell (physisch)
+### Physisches Datenbankmodell
 ![Relationales Modell physisch](Physisches_Datenbankmodell_autotuningdb.png)
 
 ## Tabellenstruktur
